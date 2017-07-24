@@ -16,6 +16,10 @@
      偏自相关系数 拖尾 截尾
           截尾是指时间序列的自相关函数（ACF）或偏自相关函数（PACF）在某阶后均为0的性质（比如AR的PACF）
           拖尾是ACF或PACF并不在某阶后均为0的性质（比如AR的ACF）
-     单位根 n次方为1的数 https://baike.baidu.com/item/%E5%8D%95%E4%BD%8D%E6%A0%B9
-     单位根检验 adf 序列中存在单位根就非平稳序列了     
+     单位根 n次方为1的数 
+          https://baike.baidu.com/item/%E5%8D%95%E4%BD%8D%E6%A0%B9
+     单位根检验 adf 
+          序列中存在单位根就非平稳序列了
+     f检验 t检验，检验因变量和自变量的线性关系
+          https://www.zhihu.com/question/27367177
  
